@@ -1,9 +1,9 @@
 # Traffic lights manager
 ## Created by:
 - Dumitru Alexandru
-- Roșu Marius
+- Roșu Alexandru-Marius
 - Spineanu Miruna-Teodora
-- Ungureanu Raul-Vasile
+- Ungureanu Vasile-Raul
 - Vuia Teodor-Traian
 
 ## Description
