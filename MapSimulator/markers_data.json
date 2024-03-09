@@ -1,0 +1,130 @@
+{
+    "features": {
+        "hospital": [
+            {
+                "name": "Spitalul Clinic Jude\u021bean de Urgen\u021b\u0103 Pius Br\u00eenzeu",
+                "lat": 45.7367734,
+                "lon": 21.2420703
+            },
+            {
+                "name": "Spitalul Clinic de Urgen\u021b\u0103 pentru Copii Louis \u021aurcanu",
+                "lat": 45.7536445,
+                "lon": 21.2221046
+            },
+            {
+                "name": "Clinica de Chirurgie \u0219i Ortopedie Pediatric\u0103 Dr. Trestianu Viorel",
+                "lat": 45.7543236,
+                "lon": 21.2216312
+            },
+            {
+                "name": "Spitalul Municipal Clinicile Noi",
+                "lat": 45.7594693,
+                "lon": 21.2265615
+            },
+            {
+                "name": "Spitalul Clinic de Boli Infec\u021bioase \u0219i Pneumoftiziologie Dr. Victor Babe\u0219",
+                "lat": 45.7680853,
+                "lon": 21.2591209
+            },
+            {
+                "name": "Spitalul Clinic C\u0103i Ferate",
+                "lat": 45.7493551,
+                "lon": 21.2185518
+            },
+            {
+                "name": "Spital Premiere",
+                "lat": 45.7792232,
+                "lon": 21.2192955
+            }
+        ],
+        "police": [
+            {
+                "name": "Inspectoratul de Poli\u021bie al Jude\u021bului Timi\u0219",
+                "lat": 45.7593926,
+                "lon": 21.2410838
+            },
+            {
+                "name": "Sec\u021bia 5 Poli\u021bie",
+                "lat": 45.7823834,
+                "lon": 21.2203761
+            },
+            {
+                "name": "Poli\u021bia Municipiului Timi\u0219oara",
+                "lat": 45.7586999,
+                "lon": 21.2416437
+            },
+            {
+                "name": "Sec\u021bia 2 Poli\u021bie",
+                "lat": 45.7340758,
+                "lon": 21.2363256
+            },
+            {
+                "name": "Sec\u021bia 3 Poli\u021bie",
+                "lat": 45.7330891,
+                "lon": 21.2084422
+            },
+            {
+                "name": "Poli\u021bia Transporturi Timi\u0219oara",
+                "lat": 45.7501992,
+                "lon": 21.2091504
+            },
+            {
+                "name": "Inspectoratul Jude\u021bean de Jandarmi Timi\u0219",
+                "lat": 45.7471129,
+                "lon": 21.199743
+            },
+            {
+                "name": "Poli\u021bia Local\u0103 Timi\u0219oara",
+                "lat": 45.7700479,
+                "lon": 21.2525514
+            },
+            {
+                "name": "Sec\u021bia nr. 1 Poli\u021bie",
+                "lat": 45.7671649,
+                "lon": 21.2567688
+            },
+            {
+                "name": "Poli\u021bia Comunal\u0103 Giroc",
+                "lat": 45.7006336,
+                "lon": 21.2332032
+            },
+            {
+                "name": "Poli\u021bia Local\u0103 S\u0103c\u0103laz",
+                "lat": 45.7600867,
+                "lon": 21.1115316
+            },
+            {
+                "name": "Poli\u021bia Comunal\u0103 Ghiroda",
+                "lat": 45.7674724,
+                "lon": 21.3041414
+            },
+            {
+                "name": "Politia Locala Complex",
+                "lat": 45.7494927,
+                "lon": 21.2398264
+            },
+            {
+                "name": "Sec\u021bia 4 Poli\u021bie",
+                "lat": 45.7646515,
+                "lon": 21.2073223
+            }
+        ],
+        "firemen": [
+            {
+                "name": "Pompierii Militari",
+                "lat": 45.7634561,
+                "lon": 21.2437497
+            },
+            {
+                "name": "Deta\u0219amentul 2 Pompieri",
+                "lat": 45.7406249,
+                "lon": 21.210653
+            },
+            {
+                "name": "Inspectoratul pentru Situa\u021bii de Urgen\u021b\u0103 Timi\u0219",
+                "lat": 45.7155963,
+                "lon": 21.2343386
+            }
+        ]
+    }
+}
