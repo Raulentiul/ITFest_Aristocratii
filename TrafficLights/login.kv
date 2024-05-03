@@ -1,0 +1,71 @@
+<LoginWindow>:
+    BoxLayout:
+        size: root.size
+        orientation: "vertical"
+
+        canvas.before:
+            Color:
+                rgba: (1,1,1,1)
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        GridLayout:
+            cols: 1
+            rows: 2
+
+            BoxLayout:
+                size_hint_y: None
+                height: 50
+
+                canvas.before:
+                    Color:
+                        rgba: (148/255, 0/255, 211/255, 1)
+                    Rectangle:
+                        pos: self.pos
+                        size: self.size
+
+                Label:
+                    text: "Account Control"
+                    bold: True
+
+            BoxLayout:
+                orientation: "vertical"
+                size_hint_y: None
+                height: 400
+
+                BoxLayout:
+                    orientation: "vertical"
+                    size_hint: 0.5, 0.5
+                    pos_hint: {'center_x':0.5,'center_y': 0.5}
+                    padding: 10, 10
+                    spacing: 5
+
+                    TextInput:
+                        hint_text: "Username"
+                        id: username_input
+                        size_hint_y: None
+                        height:50
+                        multiline: False
+                        padding: 5,5
+
+                    TextInput:
+                        id: password_input
+                        hint_text: "Password"
+                        size_hint_y: None
+                        height:50
+                        multiline: False
+                        padding: 5,5
+                        password: True
+
+                    Button:
+                        text: "Sign In"
+                        background_normal: ''
+                        background_color: (148/255, 0/255, 211/255, 1)
+                        size_hint: 0.5, 0.2
+                        pos_hint: {'center_x': 0.5}
+                        on_press: root.sign_in()
+
+                    Label:
+                        text: ""
+                        color: (1, 0, 0, 1)
