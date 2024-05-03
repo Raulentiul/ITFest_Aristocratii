@@ -17,7 +17,7 @@ class UserApp(App):
         mapview = MapView(zoom=10, lat=TIMISOARA_LAT, lon=TIMISOARA_LON)
 
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        black_tl_png = os.path.join(script_dir, 'venv', 'icons', 'BlackTL3.png')
+        black_tl_png = os.path.join(script_dir,'BlackTL3.png')
 
         with open('filtered_trafficlight_response.json', 'r') as f:
             trafficlight_data = json.load(f)
