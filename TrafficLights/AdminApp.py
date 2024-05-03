@@ -89,7 +89,7 @@ class MapManager(App):
 
     def build(self):
         mapview = MapView(zoom=10, lat=TIMISOARA_LAT, lon=TIMISOARA_LON)
-        black_tl_png = os.path.join(MapManager.script_dir, '.venv', 'icons', 'BlackTL3.png')
+        black_tl_png = os.path.join(MapManager.script_dir, 'BlackTL3.png')
 
         with open('filtered_trafficlight_response.json', 'r') as f:
             trafficlight_data = json.load(f)
