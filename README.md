@@ -10,6 +10,6 @@
 Manages traffic lights in order to avoid collisions and for more traffic fluidity. Can be used for emergency vehicles or for simply ensuring road safety in case of irresponsible drivers, minimizing damages and saving lives.
 
 ## How does it work?
-
+https://drive.google.com/file/d/1tqkKBhg848rfxPNViJ4RZTfAaStd_8vg/view?usp=drive_link
 
 
